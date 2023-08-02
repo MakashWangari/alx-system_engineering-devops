@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apmx --group-directories-first
+ls -apmx
